@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
-    }
+    },
+    {
+      "id": 354,
+      "category": "animal welfare",
+      "title": "Dog Adoption Day",
+      "description": "Find your new best friend at this event.",
+      "location": "Paw Town",
+      "date": "January 23, 2022",
+      "time": "11:00",
+      "organizer": "Dugh Laydee"
+    },
   ]
 }
